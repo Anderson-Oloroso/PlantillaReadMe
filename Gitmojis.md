@@ -34,4 +34,4 @@ git commit -m "✨ feat(menu): nueva navegación"
 # o con códigos:
 git commit -m ":sparkles: feat(menu): nueva navegación"
 ```
-_Para: Henrik Anderson Oloroso García_
+_Hecho por: Henrik Anderson Oloroso García_
