@@ -26,6 +26,8 @@
 | 🎨 | `:art:` | `design` | UI/UX |
 | 🗃️ | `:card_file_box:` | `db` | Base de datos |
 | 🔨 | `:hammer:` | `tool` | Herramienta |
+| 💬 | `:speech_balloon:` | comment| Comentarios en código |
+| 🏷️ | `:label:` | types | Renombra tipos/variables |
 
 ## 💻 Uso en commits
 
